@@ -132,6 +132,7 @@ function App() {
       </div>
 
       <div className='row'>
+        hello
         <h2>Your bets</h2>
         <ul>
           <li>Biden: {myBets[0].toString()} ETH (wei)</li>
